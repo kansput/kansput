@@ -28,13 +28,15 @@ Saya juga menjabat sebagai **Koordinator Divisi Penelitian dan Pengembangan** di
 
 ---
 
-## 📈 Statistik GitHub
+## 📜 Sertifikasi yang Saya Miliki
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandaputra&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandaputra&theme=radical" alt="GitHub Streak" />
-</p>
+- ✅ Google Cloud Computing Foundations (Skill Boost)
+- ✅ Belajar Dasar Pemrograman JavaScript – Dicoding
+- ✅ Introduction to AI – Microsoft x ElevAIte Program
+- ✅ Sertifikat Agile Development – Bangkit Academy
+
+📁 [Lihat semua sertifikat di sini](https://www.linkedin.com/in/kandaputra/details/certifications/)
+
 
 ---
 
@@ -42,11 +44,11 @@ Saya juga menjabat sebagai **Koordinator Divisi Penelitian dan Pengembangan** di
 
 🔍 **Anime Sentiment Analysis**  
 Capstone project untuk Kaggle & Student Development Initiative. Menggunakan NLP untuk analisis sentimen komentar anime.  
-> [📁 Lihat Repository](https://github.com/kandaputra/anime-sentiment-analysis)
+> [📁 Lihat Repository](https://github.com/kansput/Hacktiv8-Capstone.git)
 
 🌊 **SampahPintar Cloud App**  
 Aplikasi edukatif berbasis cloud untuk pengelolaan sampah di sektor kelautan (dalam program BISA)  
-> [📁 Lihat Repository](https://github.com/kandaputra/sampahpintar)
+> [📁 Lihat Repository][coming soon...]
 
 ---
 
@@ -54,9 +56,9 @@ Aplikasi edukatif berbasis cloud untuk pengelolaan sampah di sektor kelautan (da
 
 - 🌐 Website / Portofolio: [coming soon...]
 - 📧 Email: kandaputrahbt@gmail.com
-- 💼 LinkedIn: [Kanda Putra Hibatullah](www.linkedin.com/in/kanda-putra-hibatullah-96a032241)
+- 💼 LinkedIn: [Kanda Putra Hibatullah](https://linkedin.com/in/kanda-putra-hibatullah-96a032241)
 
 ---
 
-<p align="center"><i>"Bermimpilah besar. Tapi lebih penting: bangun lebih awal dan kerjakan mimpinya."</i></p>
+<p align="center"><i>"Bismillah aja dulu, siapa tau nanti jadi Alhamdulillah.."</i></p>
 
