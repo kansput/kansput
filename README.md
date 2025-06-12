@@ -46,16 +46,21 @@ Saya juga menjabat sebagai **Koordinator Divisi Penelitian dan Pengembangan** di
 Capstone project untuk Kaggle & Student Development Initiative. Menggunakan NLP untuk analisis sentimen komentar anime.  
 > [📁 Lihat Repository](https://github.com/kansput/Hacktiv8-Capstone.git)
 
+ 💖 **Kanojo Project**  
+A personal website date project — still under development, but we're getting there! 
+> [📁 Lihat Repository](https://github.com/kansput/KANOJO_PROJECT.git)
+
 🌊 **SampahPintar Cloud App**  
 Aplikasi edukatif berbasis cloud untuk pengelolaan sampah di sektor kelautan (dalam program BISA)  
 > [📁 Lihat Repository][coming soon...]
 
 ---
 
+
 ## 📫 Let's Connect!
 
 - 🌐 Website / Portofolio: [coming soon...]
-- 📧 Email: kandaputrahbt@gmail.com
+- 📧 Email: kandaputrah@gmail.com
 - 💼 LinkedIn: [Kanda Putra Hibatullah](https://linkedin.com/in/kanda-putra-hibatullah-96a032241)
 
 ---
