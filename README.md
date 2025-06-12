@@ -35,7 +35,7 @@ Saya juga menjabat sebagai **Koordinator Divisi Penelitian dan Pengembangan** di
 - ✅ Introduction to AI – Microsoft x ElevAIte Program
 - ✅ Sertifikat Agile Development – Bangkit Academy
 
-📁 [Lihat semua sertifikat di sini](https://www.linkedin.com/in/kandaputra/details/certifications/)
+📁 [Lihat semua sertifikat di sini](https://linkedin.com/in/kanda-putra-hibatullah-96a032241)
 
 
 ---
